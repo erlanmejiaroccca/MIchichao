@@ -1,0 +1,25 @@
+body{
+	background: #b92b27;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, rgb(223, 129, 7), #1ef801);  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, rgb(18, 189, 75), #689fa1);
+	 /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	 background: url(img/3d-cube-pink-and-blue-neon-box-vector.jpg);
+	font-family: "open sans";
+}
+
+.tabla0{
+	font-size: 30px;
+	color: white;
+}
+
+.tabla1{
+	box-shadow: 3px 3px 3px 3px white;
+	background: white;
+
+}
+button{
+	background: rgba(255, 255, 255, 0.897);
+	height: 60px;
+	width: 100px
+}
